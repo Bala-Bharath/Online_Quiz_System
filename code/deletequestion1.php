@@ -2,7 +2,7 @@
 
 <head><title>Delete questions</title></head>
 
-<body background="exam13.jpg">
+<body background="../images/exam13.jpg">
 
 <form action=" " method="post">
 </br></br></br>
@@ -30,32 +30,31 @@ mysql_select_db("examdb",$link)
 	or die("Can't select database :".mysql_error()."</br>");
 
 $sql="select * from  questiondetails where question_no=$no;";
-$result1=mysql_query($sql);// or die("Unable to delete :".mysql_error()."</br>");
-$n=mysql_num_rows($result1);
-if($n>0)
+$result=mysql_query($sql);// or die("Unable to delete :".mysql_error()."</br>");
+
+if(mysql_num_rows($result)>0)
 {
 $flag=1;
 $sql="delete from questiondetails where question_no=$no;";
-$result2=mysql_query($sql) or die("Unable to delete :".mysql_error()."</br>");
+$result=mysql_query($sql) or die("Unable to delete :".mysql_error()."</br>");
 }
 
 else
 $flag=0;
 
 $sql="select question_no from  questiondetails;";
-$result3=mysql_query($sql);// or die("Unable to delete :".mysql_error()."</br>");
-$n=mysql_num_rows($result3);
-$i=1;
-while($row=mysql_fetch_array($result3))
+$result=mysql_query($sql);// or die("Unable to delete :".mysql_error()."</br>");
+$n=mysql_num_rows($result);
+
+
+while($n!=($i+3))
 {
-$qno=$row["question_no"];
-//echo "</br>".$qno."</br>";
-$sql="update questiondetails set question_no='$i' where question_no='$qno';";
-$result4=mysql_query($sql) or die("Unable to update :".mysql_error()."</br>");
-$i++;
+	$sql="update questiondetails set question_no=($i-1) where question_no=$i;";
+	$result=mysql_query($sql);// or die("Unable to delete :".mysql_error()."</br>");
+	$i=$i+1;
 }
 
-//mysql_close($link);
+mysql_close($link);
 ?>
 <font color="green" size="3" align="center"><em><h3>
 <?php if($flag==1): ?>

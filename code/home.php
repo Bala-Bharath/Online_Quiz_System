@@ -4,7 +4,7 @@
 <title>Exam easy system</title>
 <head>
 
-<body background="exam13.jpg">
+<body background="../images/exam13.jpg">
 <form action=" " method="post">
 </br></br></br>
 <font color="green" size="4"><em><h3><marquee>*** welcome to examination system ***</marquee></h3></em></font>

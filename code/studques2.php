@@ -3,7 +3,7 @@
 
 <head><title>Queastion & Answer page</title></head>
 
-<body background="exam13.jpg">
+<body background="../images/exam13.jpg">
 <form action=" " method="post">
 
 <?php 

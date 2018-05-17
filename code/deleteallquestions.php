@@ -2,7 +2,7 @@
 
 <head><title>Delete all questions</title></head>
 
-<body background="exam13.jpg">
+<body background="../images/exam13.jpg">
 <form action=" " method="post">
 
 <?php

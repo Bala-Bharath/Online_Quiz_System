@@ -2,7 +2,7 @@
 
 <head><title>Question updation</title></head>
 
-<body background="exam13.jpg">
+<body background="../images/exam13.jpg">
 <form action="adminsignin2.php" method="post" >
 
 <p align="center">

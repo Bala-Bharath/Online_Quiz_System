@@ -2,7 +2,7 @@
 
 <head><title>Change password</title></head>
 
-<body background="exam13.jpg">
+<body background="../images/exam13.jpg">
 <form action="changepin2.php " method="post">
 <font color="darkblue" size="4">
 <em>

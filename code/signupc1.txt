@@ -4,7 +4,7 @@
 <title>Thanks you!</title>
 </head>
 
-<body background="exam6.jpg">
+<body background="../images/exam6.jpg">
 <form action=" signupc1.php" method="post" >
 <?php $flag=0; ?>
 

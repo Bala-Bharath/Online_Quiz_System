@@ -2,7 +2,7 @@
 
 <head><title>Question and Answer</title></head>
 
-<body background="exam13.jpg">
+<body background="../images/exam13.jpg">
 <form action="" method="post">
 
 <?php
@@ -74,7 +74,7 @@ if(mysql_num_rows($result)>0)
 		</br></br>
 		<font color="red" size="4"><em>
 		<h3 align="center">Invalid username and password!</h3>
-		<h3 align="center"><em align="center"><a href="signin.php">Try againg</a></h3>
+		<h3 align="center"><em align="center"><a href="signin.php">Try again!</a></h3>
 		</em></font>s
 
 		</em>

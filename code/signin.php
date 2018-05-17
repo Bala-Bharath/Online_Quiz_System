@@ -4,7 +4,7 @@
 <title>Signin</title>
 </head>
 
-<body background="exam13.jpg">
+<body background="../images/exam13.jpg">
 <form action="signin2.php" method="post" >
 
 </br></br></br></br>

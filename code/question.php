@@ -2,7 +2,7 @@
 
 <head><title>Question updation</title><head>
 
-<body background="exam13.jpg">
+<body background="../images/exam13.jpg">
 <form action=" " method="post">
 <font color="darkblue" size="4"><em>
 

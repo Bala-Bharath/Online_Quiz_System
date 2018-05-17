@@ -3,7 +3,7 @@
 <head>
 <title>Signup page</title>
 </head>
-<body background="exam13.jpg">
+<body background="../images/exam13.jpg">
 <form action="signupc2.php" method="post" >
 <font color="darkblue" size="4">
 <h3 align="right"><em><a href="home.php">home</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</em></h3>
