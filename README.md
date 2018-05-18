@@ -10,3 +10,4 @@ A web application used to conduct online quiz. It's composed of Admin and User m
   - HTML, PHP and MySQL.
   
  - ### Screenshots:
+  - ![Home](https://gitlab.com/balaji_pro/Online_Quiz_System/blob/master/demo_screenshots/home.png)
