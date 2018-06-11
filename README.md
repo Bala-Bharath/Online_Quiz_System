@@ -11,9 +11,9 @@ A web application used to conduct online quiz. It's composed of Admin and User m
   - <h4>Start at: src/home.php </h4>
 
 - ### Few Screenshots:
-  - <h4>Home</h4>![home](/uploads/d620a205b29a8d6cf82151eb05854e26/home.png)
-  - <h4>Signin</h4>![signin](/uploads/dfa84a20712dda02020a41d579667a38/signin.png)
-  - <h4>Change pin</h4>![changepin](/uploads/aef0719a30e5024f36f1a591e5811941/changepin.png)
-  - <h4>Add questions</h4>![question](/uploads/8c7a5498174811dc82d053cd1bba3352/question.png)
-  - <h4>Set time</h4>![settime](/uploads/9a091d86391aa5b4357d724e0c585424/settime.png)
-  - <h4>Exam</h4>![studque](/uploads/d19bfe5fe9062897a4f1d7d7b4aa23aa/studque.png)
+  - <h4>Home</h4>![home](https://user-images.githubusercontent.com/13750550/41237253-b7ee9c5a-6db0-11e8-9183-ca6fec2d0606.png)
+  - <h4>Signin</h4>![signin](https://user-images.githubusercontent.com/13750550/41237382-fd1a90cc-6db0-11e8-9d91-d2f544d9dd40.png)
+  - <h4>Change pin</h4>![changepin](https://user-images.githubusercontent.com/13750550/41237389-0181df58-6db1-11e8-8e1a-dddd395d8679.png)
+  - <h4>Add questions</h4>![question](https://user-images.githubusercontent.com/13750550/41237453-21fddbec-6db1-11e8-98a7-1c73193360f8.png)
+  - <h4>Set time</h4>![settime](https://user-images.githubusercontent.com/13750550/41237461-261458be-6db1-11e8-8ff4-df28b150a8c7.png)
+  - <h4>Exam</h4>![studque](https://user-images.githubusercontent.com/13750550/41237466-2a2c90ec-6db1-11e8-930c-9193f16ec279.png)
