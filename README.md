@@ -1,15 +1,16 @@
 ## Online Quiz System
 A web application used to conduct online quiz. It's composed of Admin and User modules.
 
- - ### Features:
+- ### Features:
   - Questions, Answer types, Answer options, Correct Answer(s), Exam timing, Time slots specific to questions can be configurable by Admin.
   - Instantaneous evaluation and result.
   - Maintains user regard/performance. 
 
- - ### Technology used:
+- ### Technology used:
   - HTML, PHP and MySQL.
- - <h4>Start at: src/home.php </h4>
- - ### Few Screenshots:
+  - <h4>Start at: src/home.php </h4>
+
+- ### Few Screenshots:
   - <h4>Home</h4>![home](/uploads/d620a205b29a8d6cf82151eb05854e26/home.png)
   - <h4>Signin</h4>![signin](/uploads/dfa84a20712dda02020a41d579667a38/signin.png)
   - <h4>Change pin</h4>![changepin](/uploads/aef0719a30e5024f36f1a591e5811941/changepin.png)
